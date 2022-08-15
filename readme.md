@@ -30,6 +30,8 @@ yarn benchmark
 # Results
 Run on MBP 14" 2021, Apple M1 Pro, 32GB RAM
 
+With Prisma `v4.2.1`
+
 ```
                 Fetch a single user by ID if exists (user_by_id)
 ┌─────────────────┬─────────────────────┬───────────────────────┬──────────────┐
